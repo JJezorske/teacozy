@@ -6,3 +6,23 @@ html {
     opacity: 0.9;
     text-align: center;
 }
+header {
+    position: fixed;
+    display: flex;
+    background-color: thistle;
+}
+#header {
+    height: 69px;
+    border-bottom: 1px solid seashell;
+    background-color: slategray;
+}
+
+.logo {
+    display: inline;
+    background-color: sienna;
+}
+
+nav {
+    display: inline;
+    background-color: skyblue;
+}
