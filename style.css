@@ -40,11 +40,18 @@ a {
     opacity: 0.9;
 }
 
+main {
+    display: flex;
+    height: 700px;
+    width: 1200;
+}
+
 .banner {
     display: flex;
     height: 700px;
     width: 1200;
-    background-image: url(images\img-mission-background.jpg);
+    background-image: url(images/img-mission-background.jpg);
+    background-repeat: no-repeat;
 }
 
 footer p {
